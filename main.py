@@ -11,3 +11,9 @@ print(combination)
 
 summa = f + f
 print(summa)
+
+
+s = "World World"
+s = s.replace("World", "Universe")
+print(s)
+
